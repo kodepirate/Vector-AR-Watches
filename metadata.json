@@ -1,0 +1,6 @@
+{
+  "name": "Vector",
+  "description": "High-perf 3D smartwatch storefront and augmented reality (AR) virtual try-on.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
